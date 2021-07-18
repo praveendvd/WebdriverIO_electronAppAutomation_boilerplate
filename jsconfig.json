@@ -3,8 +3,8 @@
         "types": [
             "node",
             "webdriverio/async",
-            "expect-webdriverio/jasmine",
-            "@wdio/jasmine-framework"
+            "expect-webdriverio",
+            "@wdio/cucumber-framework"
         ]
     }
 }
