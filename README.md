@@ -31,7 +31,7 @@ Make sure nodejs latest is installed
 
 Just run:
 
-`.\executeAndOpenReport.bat`
+`.\openAllureRport.bat`
 
 ## Contact Maintainer
 
