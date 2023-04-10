@@ -43,7 +43,7 @@ Just run:
 
 You can also just click on:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/webdriverio/webdriverio)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/praveendvd/WebdriverIO_electronAppAutomation_boilerplate)
 
 to get a ready-to-use development environment for you to start working on this code base.
 
