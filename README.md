@@ -38,3 +38,13 @@ Just run:
 - **Email**: praveendvd@live.com
 - **Linkedin**: https://www.linkedin.com/in/praveendvd/
 - **Website**:  https://praveendvd.wixsite.com/greenhorn
+
+### Getting started with Gitpod
+
+You can also just click on:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/webdriverio/webdriverio)
+
+to get a ready-to-use development environment for you to start working on this code base.
+
+If you're looking for issues to help out with, check out [the issues labeled "good first pick"](https://github.com/webdriverio/webdriverio/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+pick"). You can also reach out to our [Matrix Channel](https://matrix.to/#/#webdriver.io:gitter.im) if you have questions on where to start contributing.
